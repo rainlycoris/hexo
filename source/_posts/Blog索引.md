@@ -1,13 +1,14 @@
 ---
 title: Blog 索引
-date: 2018-05-06 17:03:12
+date: 2023-12-21 00:00:00
 # categories: 全新体验
 tags:
 - 索引
-sticky: 1
+sticky: 39
 #cover:
 comments: true
 toc: true
+author: DaydreamWarrior
 ---
 
 君のこころは輝いてるかい？
