@@ -12,8 +12,8 @@ image:
   favicon: "/assets/favicon.png" # 站点图标
   avatar: "/assets/honoka.png" # 个人信息挂件上的头像
   banner:
-    # light: "/assets/u6abjwkw.png"
-    # dark: "https://dev.krt.moe/demo-assets/banner_dark.webp"
+    light: ""
+    dark: ""
   background:
     light: "/assets/chika_you.webp"
     dark: "/assets/mari_you.webp"
@@ -129,6 +129,6 @@ visit_count:
 
 ################## 额外的注入代码 ##################
 additional_injections:
-  head: "head: <style>@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&family=Noto+Serif+SC&display=swap')</style><style>body { font-family: 'Noto Serif SC' }</style>"
+  head: "<style>@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&family=Noto+Serif+SC&display=swap')</style><style>body { font-family: 'Noto Serif SC' }</style>"
   footer: "<body><noscript>You need to enable JavaScript to run this app.</noscript><script>var ketax_config = { delimiters: [{ left: \"$$\", right: \"$$\", display: !0 }, { left: \"$\", right: \"$\", display: !1 }] }</script><link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css\"integrity=\"sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET\" crossorigin=\"anonymous\"><script src=\"https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js\"integrity=\"sha384-GxNFqL3r9uRJQhR+47eDxuPoNE7yLftQM8LcxzgS4HT73tp970WS/wV5p8UzCOmb\"crossorigin=\"anonymous\"></script><script src=\"https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js\"integrity=\"sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl\"crossorigin=\"anonymous\"></script><script>setInterval((function () { renderMathInElement(document.body, ketax_config) }), 1e3)</script><div id=\"root\"></div></body>"
   after_footer: "" # 站点分析，或是追加的脚本
