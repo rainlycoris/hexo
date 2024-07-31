@@ -13,6 +13,8 @@ author: DaydreamWarrior
 
 君のこころは輝いてるかい？
 
+<!-- more -->
+
 $\LARGE \mathscr Part\ \rm A\quad\LARGE\textbf{知识}$
 
 基本都是我乱写的。
