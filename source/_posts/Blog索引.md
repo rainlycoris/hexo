@@ -1,9 +1,9 @@
 ---
-title: 你好，世界！
+title: Blog 索引
 date: 2018-05-06 17:03:12
-categories: 全新体验
+# categories: 全新体验
 tags:
-- 欢迎
+- 索引
 sticky: 1
 #cover:
 comments: true
