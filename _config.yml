@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Kratos : Rebirth'
-subtitle: '一个可爱而现代的 Hexo 主题'
-description: '欢迎使用这个主题，希望能给您带来美好的体验。'
+title: ''
+subtitle: 'だから僕らは がんばって挑戦だよね'
+description: '空白的我将命运紧握'
 keywords: 
 - hexo
 - theme
@@ -121,4 +121,6 @@ sitemap:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:rainlycoris/rainlycoris.github.io.git
+  branch: main
