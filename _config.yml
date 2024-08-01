@@ -118,6 +118,16 @@ sitemap:
   template: ./sitemap_template.xml
   rel: false
 
+markdown_it_plus:
+  # ...
+  plugins:
+    - plugin:
+      name: '@iktakahiro/markdown-it-katex'
+      enable: false
+    - plugin:
+      name: '@andatoshiki/markdown-it-katex'
+      enable: true
+  
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
