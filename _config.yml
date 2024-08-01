@@ -128,6 +128,21 @@ markdown_it_plus:
       name: '@andatoshiki/markdown-it-katex'
       enable: true
   
+gitalk:
+  enable: true
+  github_id: rainlycoris # GitHub repo owner
+  repo: comments # Repository name to store issues
+  client_id: Ov23li5Sc5zkD6ywF1Es # GitHub Application Client ID
+  client_secret: edc0278279dbb63023b6c32d90ca7b225cc7c853 # GitHub Application Client Secret
+  admin_user: rainlycoris # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  distraction_free_mode: true # Facebook-like distraction free mode
+  # When the official proxy is not available, you can change it to your own proxy address
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
+  # Gitalk's display language depends on user's browser or system environment
+  # If you want everyone visiting your site to see a uniform language, you can set a force language value
+  # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
+  language: zh-CN
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

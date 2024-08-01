@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@andatoshiki/markdown-it-katex": "^0.0.3",
+    "gitalk": "^1.8.0",
     "hexo": "^7.3.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-filter-date-from-git": "^0.1.2",
