@@ -5,7 +5,7 @@ date: 2024-07-05 13:23:00
 tags:
 - 平衡树
 sticky: 1
-#cover:
+cover: "/assets/AqoursTree.jpg"
 comments: true
 toc: true
 author: DaydreamWarrior

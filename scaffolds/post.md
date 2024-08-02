@@ -4,7 +4,7 @@ date: {{ date }}
 categories:
 tags:
 #sticky:
-#cover:
+#cover
 comments: true
 toc: true
 donate: true

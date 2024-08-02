@@ -7,7 +7,7 @@ tags:
 - atcoder
 - 并查集
 sticky: 1
-#cover:
+#cover
 comments: true
 toc: true
 author: DaydreamWarrior

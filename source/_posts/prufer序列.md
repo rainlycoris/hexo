@@ -6,7 +6,7 @@ tags:
 - 题解
 - prufer 序列
 sticky: 1
-#cover:
+#cover
 comments: true
 toc: true
 author: DaydreamWarrior

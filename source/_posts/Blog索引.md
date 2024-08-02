@@ -5,7 +5,7 @@ date: 2023-12-21 00:00:00
 tags:
 - 索引
 sticky: 39
-#cover:
+#cover
 comments: true
 toc: true
 author: DaydreamWarrior

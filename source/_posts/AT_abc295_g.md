@@ -8,7 +8,7 @@ tags:
 - 并查集
 - 强连通
 sticky: 1
-#cover:
+#cover
 comments: true
 toc: true
 author: DaydreamWarrior

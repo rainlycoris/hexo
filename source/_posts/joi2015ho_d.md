@@ -6,7 +6,7 @@ tags:
 - 题解
 - atcoder
 sticky: 1
-#cover:
+#cover
 comments: true
 toc: true
 author: DaydreamWarrior
